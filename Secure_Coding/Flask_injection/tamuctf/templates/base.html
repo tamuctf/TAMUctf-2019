@@ -1,0 +1,17 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{ title }} - ECEN404</title>
+    {% else %}
+    <title>ECEN403</title>
+    {% endif %}
+  </head>
+  <body>
+    <div>ECEN403: <a href="/index">Home</a> 
+                  <a href="/map">Map</a>
+                  <a href="/data">Data</a>
+    </div>
+    <hr>
+    {% block content %}{% endblock %}
+  </body>
+</html>

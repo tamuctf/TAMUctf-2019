@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^robots.txt$ /robots.php [L]

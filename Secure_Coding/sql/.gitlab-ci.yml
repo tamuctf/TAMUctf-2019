@@ -1,0 +1,6 @@
+image: web_sql:latest
+
+test:
+  script:
+    - "./tests/entry.sh"
+

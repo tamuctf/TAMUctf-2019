@@ -1,0 +1,15 @@
+Vagrant.configure("2") do |config|
+    config.vm.box = "ubuntu/xenial64"
+
+    config.ssh.private_key_path = ["/tmp/vagrant_private.key", "~/.vagrant.d/insecure_private_key"]
+    config.ssh.insert_key = false
+
+    config.vm.network "public_network", ip: "{{ victim_ip }}", bridge: "{{ bridge }}"
+    config.vm.provision "shell",
+        run: "always",
+        inline: "ifconfig enp0s8 {{ victim_ip }} netmask {{ netmask }} up"
+
+    config.vm.provision "file", source: "/tmp/vagrant_public.key", destination: "~/.ssh/authorized_keys"
+    config.vm.provision "file", source: "./docker-compose.yml", destination: "~/docker-compose.yml"
+    config.vm.provision "shell", path: "./entry.sh"
+end

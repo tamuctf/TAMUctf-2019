@@ -1,0 +1,43 @@
+version: '2.4'
+
+x-limits: &limits
+    pids_limit: 1024
+    cpu_shares: 256
+    mem_limit: 512m
+    logging:
+        options:
+            max-size: 10m
+            max-file: '3'
+
+services:
+    bob:
+        <<: *limits
+        build: ./bob
+        image: naumachia/aes.bob
+        restart: unless-stopped
+        hostname: bob
+        networks:
+            default:
+                ipv4_address: 172.30.0.2
+        restart: unless-stopped
+
+    alice:
+        <<: *limits
+        build: ./alice
+        image: naumachia/aes.alice
+        restart: unless-stopped
+        hostname: alice
+        depends_on:
+            - bob
+        networks:
+            default:
+                ipv4_address: 172.30.0.3
+        restart: unless-stopped
+
+networks:
+    default:
+        driver: l2bridge
+        ipam:
+            driver: static
+            config:
+                - subnet: 172.30.0.0/28

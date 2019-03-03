@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+    nocc:
+        build: ./Reversing/NoCCBytes
+        networks:
+            - default
+        ports:
+            - "8188:8188"
+
+    crackz3:
+        build: ./Reversing/CrackZ3
+        networks:
+            - default
+        ports:
+            - "8189:8189"
+
+    advkeygen:
+        build: ./Reversing/advkeygen
+        networks:
+            - default
+        ports:
+            - "7223:7223"
+
+    xorgadsby:
+        build: ./Reversing/xorgadsby
+        networks:
+            - default
+        ports:
+                - "7224:7224"
+
+

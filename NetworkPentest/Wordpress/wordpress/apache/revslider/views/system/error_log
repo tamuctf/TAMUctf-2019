@@ -1,0 +1,67 @@
+[18-Dec-2013 11:16:29 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[18-Dec-2013 11:25:36 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[18-Dec-2013 19:48:23 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[18-Dec-2013 19:57:11 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[18-Dec-2013 23:04:43 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[19-Dec-2013 04:14:09 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[19-Dec-2013 07:25:39 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[19-Dec-2013 07:28:17 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[19-Dec-2013 10:05:58 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[10-Jan-2014 10:03:39 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[22-Jan-2014 09:59:38 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[22-Jan-2014 15:48:59 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[22-Jan-2014 16:01:49 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[22-Jan-2014 22:06:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[22-Jan-2014 22:50:00 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[23-Jan-2014 03:47:14 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[23-Jan-2014 06:46:30 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[23-Jan-2014 10:01:03 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[23-Jan-2014 15:56:40 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[25-Jan-2014 09:38:23 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[25-Jan-2014 15:37:52 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home3/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[25-Apr-2014 14:32:32 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[25-Apr-2014 14:38:34 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[25-Apr-2014 19:36:07 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[25-Apr-2014 19:41:39 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[26-Apr-2014 01:52:08 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[26-Apr-2014 01:54:39 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[26-Apr-2014 23:12:31 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[27-Apr-2014 03:40:20 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[27-Apr-2014 04:10:49 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[27-Apr-2014 06:23:23 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[27-Apr-2014 12:21:46 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[28-Apr-2014 05:04:00 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[29-Jun-2014 16:04:17 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[29-Jun-2014 16:07:36 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[29-Jun-2014 22:45:30 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[29-Jun-2014 22:48:12 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[30-Jun-2014 05:12:55 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[30-Jun-2014 05:26:38 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[30-Jun-2014 09:33:40 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[30-Jun-2014 11:27:40 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[30-Jun-2014 11:42:06 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[30-Jun-2014 16:44:30 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[30-Jun-2014 16:50:34 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[30-Jun-2014 16:54:42 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[30-Jun-2014 22:30:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[16-Aug-2014 04:52:18 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[16-Aug-2014 04:52:58 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[16-Aug-2014 04:53:08 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[16-Aug-2014 11:17:00 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[16-Aug-2014 11:19:01 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[16-Aug-2014 11:21:55 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[16-Aug-2014 16:53:10 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[16-Aug-2014 16:53:53 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[16-Aug-2014 16:55:09 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[16-Aug-2014 22:57:10 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[16-Aug-2014 22:57:50 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[16-Aug-2014 22:58:52 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3
+[17-Aug-2014 05:18:16 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/update_dialog.php on line 2
+[17-Aug-2014 05:18:48 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/general_settings_dialog.php on line 3
+[17-Aug-2014 14:15:17 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/system/video_dialog.php on line 3

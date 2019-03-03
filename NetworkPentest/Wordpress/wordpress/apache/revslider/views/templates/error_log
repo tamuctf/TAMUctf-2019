@@ -1,0 +1,103 @@
+[24-Apr-2014 16:56:04 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[24-Apr-2014 17:10:17 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[24-Apr-2014 17:12:11 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[24-Apr-2014 17:12:11 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[24-Apr-2014 17:13:01 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[24-Apr-2014 17:16:33 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[24-Apr-2014 17:16:45 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[24-Apr-2014 17:16:45 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[24-Apr-2014 17:16:56 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[24-Apr-2014 17:17:08 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[24-Apr-2014 17:17:20 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[24-Apr-2014 17:17:20 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[24-Apr-2014 17:17:43 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[24-Apr-2014 17:17:54 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[25-Apr-2014 06:11:07 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[25-Apr-2014 06:19:27 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[25-Apr-2014 06:19:27 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[25-Apr-2014 06:25:43 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[25-Apr-2014 06:31:40 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[25-Apr-2014 06:37:18 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[25-Apr-2014 06:37:18 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[25-Apr-2014 06:42:55 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[25-Apr-2014 06:47:03 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[25-Apr-2014 06:50:25 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[25-Apr-2014 06:50:25 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[25-Apr-2014 06:54:49 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[25-Apr-2014 07:00:39 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[25-Apr-2014 13:32:03 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[25-Apr-2014 13:35:45 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[25-Apr-2014 13:35:45 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[25-Apr-2014 13:39:28 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[25-Apr-2014 13:45:48 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[25-Apr-2014 13:51:33 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[25-Apr-2014 13:51:33 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[25-Apr-2014 13:55:09 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[25-Apr-2014 14:01:53 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[25-Apr-2014 14:05:21 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[25-Apr-2014 14:05:21 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[25-Apr-2014 14:41:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[25-Apr-2014 14:46:05 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[12-May-2014 12:14:19 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[12-May-2014 12:14:19 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[12-May-2014 12:14:19 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[12-May-2014 12:14:19 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[12-May-2014 12:14:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[07-Jun-2014 20:13:57 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[07-Jun-2014 20:13:57 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[07-Jun-2014 20:13:57 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[07-Jun-2014 20:13:57 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[07-Jun-2014 20:13:57 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[24-Jul-2014 23:34:17 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[23-Nov-2014 11:11:03 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[04-Dec-2014 13:39:51 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[04-Dec-2014 13:40:57 America/Denver] PHP Notice:  Undefined variable: iframeStyle in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php on line 3
+[04-Dec-2014 13:41:01 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[04-Dec-2014 13:41:01 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[04-Dec-2014 13:41:11 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[04-Dec-2014 13:41:25 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[04-Dec-2014 13:41:53 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[04-Dec-2014 13:41:53 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[04-Dec-2014 13:42:03 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[04-Dec-2014 13:42:19 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[04-Dec-2014 13:42:29 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[04-Dec-2014 13:42:29 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[04-Dec-2014 13:42:42 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[04-Dec-2014 13:43:00 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[04-Dec-2014 21:43:00 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 2
+[04-Dec-2014 21:43:00 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6
+[04-Dec-2014 21:43:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[04-Dec-2014 21:43:30 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[04-Dec-2014 21:43:30 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[04-Dec-2014 21:43:42 America/Denver] PHP Notice:  Undefined variable: sliderID in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 1
+[04-Dec-2014 21:43:42 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[04-Dec-2014 21:44:42 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[04-Dec-2014 21:45:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[04-Dec-2014 21:45:27 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[04-Dec-2014 21:46:05 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[04-Dec-2014 21:46:15 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[04-Dec-2014 21:46:38 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[05-Dec-2014 03:42:22 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[05-Dec-2014 03:42:51 America/Denver] PHP Notice:  Undefined variable: loadGoogleFont in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 5
+[05-Dec-2014 03:42:51 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[05-Dec-2014 03:43:25 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[05-Dec-2014 03:44:12 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[05-Dec-2014 09:48:25 America/Denver] PHP Fatal error:  Call to undefined function _e() in /home4/phoenkd0/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5

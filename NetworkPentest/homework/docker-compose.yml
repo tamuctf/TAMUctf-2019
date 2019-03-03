@@ -1,0 +1,53 @@
+version: '2.4'
+
+x-limits: &limits
+    pids_limit: 1024
+    cpu_shares: 256
+    mem_limit: 512m
+    logging:
+        options:
+            max-size: 10m
+            max-file: '3'
+
+services:
+    web:
+        <<: *limits
+        build: ./web
+        image: naumachia/homework.web
+        hostname: www.homework.naum
+        networks:
+            default:
+                ipv4_address: 172.30.0.2
+        environment:
+            MQ_SERVER: queue
+        restart: unless-stopped
+
+    grader:
+        <<: *limits
+        build: ./grader
+        image: naumachia/homework.grader
+        hostname: grader.homework.naum
+        networks:
+            default:
+                ipv4_address: 172.30.0.3
+        environment:
+            MQ_SERVER: queue
+        restart: unless-stopped
+
+    queue:
+        <<: *limits
+        build: ./queue
+        image: naumachia/homework.queue
+        hostname: q.homework.naum
+        networks:
+            default:
+                ipv4_address: 172.30.0.4
+        restart: unless-stopped
+
+networks:
+    default:
+        driver: l2bridge
+        ipam:
+            driver: static
+            config:
+                - subnet: 172.30.0.0/28

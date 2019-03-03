@@ -1,0 +1,7 @@
+image: shotes/buffer_overflow:latest
+
+
+test:
+  script:
+    - "./tests/entry.sh"
+

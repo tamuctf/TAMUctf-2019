@@ -1,0 +1,5 @@
+*.swp
+*peda-session-a.out.txt
+*.gdb_history
+*.gdb_history
+*.DS_Store

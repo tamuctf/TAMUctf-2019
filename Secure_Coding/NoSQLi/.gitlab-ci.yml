@@ -1,0 +1,5 @@
+image: messy/nosql:latest
+
+test:
+  script:
+    - "./tests/entry.sh"

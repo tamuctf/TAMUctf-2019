@@ -1,0 +1,41 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            b9:59:da:c4:d7:3f:bc:31
+    Signature Algorithm: base64
+        Issuer: C = US, ST = Texas, L = College Station, O = Texas A&M University, OU = tamuCTF, CN = Alice, emailAddress = alice@tamuctf.edu
+        Validity
+            Not Before: Oct  9 13:08:12 2018 GMT
+            Not After : Nov  8 13:08:12 2018 GMT
+        Subject: C = US, ST = Texas, L = College Station, O = Texas A&M University, OU = tamuCTF, CN = Alice, emailAddress = alice@tamuctf.edu
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key:
+                    61801292647
+                    228288385004
+                ASN1 OID: badPrime96v4
+                CURVE: JustNo
+                    Field Type: prime-field
+                    Prime:
+                        412220184797
+                    A:   
+                        10717230661382162362098424417014722231813
+                    B:   
+                        22043581253918959176184702399480186312
+                    Generator:
+                        56797798272
+                        349018778637
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                F0:4E:BF:87:92:16:9B:D6:53:DA:CC:6D:AB:22:0E:40:25:41:C5:CC
+            X509v3 Authority Key Identifier: 
+                keyid:F0:4E:BF:87:92:16:9B:D6:53:DA:CC:6D:AB:22:0E:40:25:41:C5:CC
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: ecdsa-with-SHA256
+         30:46:02:21:00:cc:3c:84:eb:19:73:e1:62:7f:81:78:99:c6:
+         26:b8:86:9e:61:7e:82:87:f1:85:5c:75:e1:2d:60:37:55:b6:
+         09:02:21:00:85:33:af:dc:34:0f:e5:13:8e:26:88:06:a3:13:
+         d1:a2:ed:d5:04:cb:9c:50:d1:c4:a4:4d:42:92:bd:69:56:1a

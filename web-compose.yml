@@ -1,0 +1,95 @@
+version: '3'
+
+
+services:
+    nginx:
+        image: nginx
+        ports:
+            - "80:80"
+            - "443:443"
+        volumes:
+            - ./nginx.conf:/etc/nginx/nginx.conf:ro
+            - /etc/ssl/:/etc/ssl/:ro
+            - ./weblogs:/var/log/nginx/
+        networks:
+            default:
+            chalnet:
+        restart: always
+
+    basic_sqli:
+        build: ./Web/Basic_SQL_Injection
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.1.10
+        ports:
+            - "80:80"
+
+    blind_sqli:
+        build: ./Web/Blind_SQL_Injection
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.2.10
+        ports:
+            - "80:80"
+
+    flask_injection:
+        build: ./Web/Flask_Injection
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.3.10
+        ports:
+            - "80:80"
+
+    nosql_injection:
+        build: ./Web/NoSQL_Injection
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.4.10
+        ports:
+            - "80:80"
+
+    robots:
+        build: ./Web/Robots
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.5.10
+        ports:
+            - "80:80"
+
+    totp:
+        build: ./Web/TOTP
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.6.10
+        ports:
+            - "80:80"
+
+    search_source:
+        build: ./Web/search-source
+        restart: always
+        networks:
+            chalnet:
+                ipv4_address: 10.126.7.10
+        ports:
+            - "80:80"
+
+    email_spoofer:
+        build: ./Misc/spoofers
+        restart: always
+        networks:
+            - default
+
+networks:
+    chalnet:
+        internal: true
+        driver: bridge
+        ipam:
+            driver: default
+            config:
+            - subnet: 10.126.0.0/16

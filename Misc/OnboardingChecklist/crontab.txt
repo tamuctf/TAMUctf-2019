@@ -1,0 +1,2 @@
+* * * * * /usr/local/bin/python /flag_bot.py >> /var/log/script.log
+# empty line

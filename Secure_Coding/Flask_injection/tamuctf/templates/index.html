@@ -1,0 +1,16 @@
+{% block content %}
+<html>
+    <div style="text-align: center">
+    <h1>Welcome to my new FaaS! (Flask as a Service)</h1>
+    <h4>Please enter the two chemicals you would like to combine:</h4>
+    <form action="/science" method="POST">
+        Chemical One: <input type="text" name="chem1"><br>
+        Chemical Two: <input type="text" name="chem2"><br>
+        <input type="submit">
+    </form>
+    <br>
+    <br>
+    <iframe src="https://giphy.com/embed/fqIBaMWI7m7O8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+    </div>
+</html>
+{% endblock %}

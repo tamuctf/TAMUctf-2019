@@ -1,0 +1,5 @@
+pika
+flask
+flask-login
+flask-socketio
+gunicorn[eventlet]

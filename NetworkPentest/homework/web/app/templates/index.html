@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Homework</title>
+  <link rel="shortcut icon" href="/static/favicon.ico">
+
+  <!-- Bootstrap Core CSS -->
+  <link href="/static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Fonts -->
+  <link href="/static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="/static/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="/static/css/index.css" rel="stylesheet">
+
+</head>
+<body id="page-top">
+
+  <!-- Header -->
+  <header class="masthead clearfix bg-dark py-2">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h3 class="masthead-brand">Homework</h3>
+        </div>
+        <div class="col-auto">
+          <span class="float-right">
+            <h5 class="nametag mr-1">
+              {% if current_user.is_authenticated -%}
+              Hi {{ current_user.name }}
+              {% endif -%}
+            </h5>
+          <button id="logout-btn" class="btn btn-outline-light">Logout</button></span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Workspace -->
+  <div class="workspace d-flex">
+    <div class="container my-auto">
+      <h3 class="mb-4 text-center">Assignment #1</h3>
+      <div class="row"><div class="col"><h4>Define a function <span class="code-inline">top_word(sentence)</span> that takes a sentance and returns the most common word.</h4></div></div>
+      <div class="row">
+        <div class="col form-group">
+          <textarea id="code-area" spellcheck="false" class="form-control code code-input" placeholder='print("hello world")'></textarea>
+          <button id="submit" style="z-index: 2;" class="btn btn-primary float-right">Run</button>
+        </div>
+      </div>
+      <div class="row mt-1">
+        <div class="col">
+          <div class="code code-output px-2 pt-2">
+            <pre id="output"><span class="faded">output</span></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="overlay"></div>
+  </div>
+
+  <!-- Vendor JavaScript -->
+  <script type="text/javascript" src="/static/vendor/jquery/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="/static/vendor/socketio/socket.io.min.js"></script>
+
+  <script src="/static/js/index.js"></script>
+</body>
+</html>

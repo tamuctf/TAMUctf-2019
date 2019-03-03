@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+    pwn1:
+        build: ./Pwn/overwrite
+        restart: always
+        networks:
+            - default
+        ports:
+            - "4321:4321"
+
+    pwn2:
+        build: ./Pwn/dead_func
+        restart: always
+        networks:
+            - default
+        ports:
+            - "4322:4322"
+
+    pwn3:
+        build: ./Pwn/simple_shell
+        restart: always
+        networks:
+            - default
+        ports:
+            - "4323:4323"
+
+    pwn4:
+        build: ./Pwn/simple_ret2libc
+        restart: always
+        networks:
+            - default
+        ports:
+            - "4324:4324"
+
+    pwn5:
+        build: ./Pwn/simple_rop
+        restart: always
+        networks:
+            - default
+        ports:
+            - "4325:4325"
+
+    pickle:
+        build: ./Pwn/python_pickle
+        restart: always
+        networks:
+            - default
+        ports:
+            - "8448:8448"

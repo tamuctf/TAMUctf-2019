@@ -1,0 +1,5 @@
+requests
+docker
+structlog
+pika
+pwntools
